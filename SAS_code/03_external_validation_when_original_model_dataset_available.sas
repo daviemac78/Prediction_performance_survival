@@ -8,7 +8,7 @@
 *					1. external validation when the original dataset used to   ;
 *					develop the model is available							   ;
 *					2. what to do if development dataset or baseline hazard are; 
-*					not available (starts LINE 1430)						   ;
+*					not available (starts LINE 1574)						   ;
 * Note:				This programme is not currently automated. It is coded	   ;
 *					based on the case study in the article. Therefore, 		   ;
 *					adapting this code for your own study will require careful ;
